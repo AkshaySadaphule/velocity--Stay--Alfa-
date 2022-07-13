@@ -13,9 +13,9 @@ public class ForLoop {
 				System.out.print("  "+table);
 			}
 			System.out.println();
-			System.out.println("Kunal modify something");
+			
 		}
-
+		//Hi Kunal here
 	}
 
 }
